@@ -1,10 +1,5 @@
 # Will They Buy? E-Commerce Conversion Prediction
 
-Solution for the **Summer Analytics 2026 - Week 2 Hackathon** (E-Commerce Conversion
-Prediction). Given user behaviour and session data for an online store, predict
-whether a user will convert (make a purchase) or not. Evaluation metric is **F1
-score** on a held-out private test set.
-
 ## What this project does
 
 - Loads the train / public_test / private_test CSVs.
